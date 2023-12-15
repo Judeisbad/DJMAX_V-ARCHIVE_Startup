@@ -14,7 +14,7 @@ REM 디맥 위치 (웬만하면 바꾸지 않아도 될거같음)
 set DJMAXLocation=steam://rungameid/960170
 
 if "%VArchiveLocation:~1,-1%" equ "FOLDER/NAME.lnk" (
-    echo __________ V-아카이브 폴더 위치를 변경해주세요 __________
+    echo __________ .bat 파일에서 V-아카이브 폴더 위치를 변경해주세요 __________
     pause
     exit
 )
