@@ -13,4 +13,5 @@
 2. 시작 메뉴 (Start Menu)로 바로가기를 옮겨서 윈도우 검색에 보이게 만든다
 3. 바로가기 아이콘 바꾸기 ([IconsExtract](https://www.nirsoft.net/utils/iconsext.html)이라는 프로그램으로 디맥 아이콘 다운받아서 사용 가능)
 
+
 V-아카이브는 바로가기를 안쓰면 로그인이 안되는 문제가 있는듯
