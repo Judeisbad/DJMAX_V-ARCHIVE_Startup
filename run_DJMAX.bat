@@ -7,7 +7,7 @@ set VArchiveLocation="FOLDER/NAME.lnk"
 REM 프로그램이 꺼져있는지 확인하는 정수 주기 (초)
 set /A checkTime=10
 
-REM 프로그램 확인 주기 시작 시간 | 디맥 실행이 보장되는 정수 시간 (초)
+REM 프로그램 확인 주기 시작 시간 / 디맥 실행이 보장되는 정수 시간 (초)
 set /A startupTime=20
 
 REM 디맥 위치 (웬만하면 바꾸지 않아도 될거같음)
