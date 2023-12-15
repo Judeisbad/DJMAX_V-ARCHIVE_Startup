@@ -9,7 +9,7 @@ set /A checkTime=10
 REM 프로그램이 시작할때까지의 시간
 set /A startupTime=20
 
-REM 디맥 위치 (웬만하면 바꾸지 않아도 될거같음)
+REM 디맥 위치 (웬만하면 바꾸지 않아도 될듯)
 set DJMAXLocation=steam://rungameid/960170
 
 REM 디맥과 V-아카이브 실행
