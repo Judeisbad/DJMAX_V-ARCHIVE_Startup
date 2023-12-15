@@ -16,4 +16,4 @@
 
 V-아카이브는 바로가기를 안쓰면 로그인이 안되는 문제가 있는듯 (확인 필요)
 
-*디맥 게임 아이콘 (.ico)의 저작권은 [NEOWIZ](https://www.neowiz.com/neowiz/)사에 있습니다.
+※ 디맥 게임 아이콘 (.ico)의 저작권은 [NEOWIZ](https://www.neowiz.com/neowiz/)사에 있습니다.
