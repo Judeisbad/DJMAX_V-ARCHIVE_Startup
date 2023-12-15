@@ -4,10 +4,10 @@ chcp 65001 > nul
 REM V-아카이브 파일 ""바로가기"" 위치 ("" 포함)
 set VArchiveLocation="FOLDER/NAME.lnk"
 
-REM 프로그램이 꺼져있는지 확인하는 정수 주기 (초)
+REM 프로그램이 꺼져있는지 확인하는 주기 (정수, 초)
 set /A checkTime=10
 
-REM 프로그램 확인 주기 시작 시간 / 디맥 실행이 보장되는 정수 시간 (초)
+REM 프로그램 확인 주기 시작 시간 / 디맥 실행이 보장되는 시간 (정수, 초)
 set /A startupTime=20
 
 REM 디맥 위치 (웬만하면 바꾸지 않아도 될거같음)
