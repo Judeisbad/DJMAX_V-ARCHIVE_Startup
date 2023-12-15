@@ -1,6 +1,6 @@
 @echo off
 
-REM (필수) V-아카이브 파일 ""바로가기"" 위치 바꾸기
+REM (필수) V-아카이브 파일 ""바로가기"" 위치
 set VArchiveLocation="E:\Software\v-archive_v0.4\v-archive.lnk"
 
 REM 프로그램이 닫힌지 확인하는 주기
