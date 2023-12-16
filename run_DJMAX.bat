@@ -4,14 +4,14 @@ chcp 65001 > nul
 REM V-아카이브 파일 ""바로가기"" 위치 ("" 포함)
 set VArchiveLocation="FOLDER/NAME.lnk"
 
+REM 디맥 위치 (혹시 스팀이 다른 곳에 설치되어있다면 변경해야 함)
+set DJMAXLocation="C:\Program Files (x86)\Steam\steamapps\common\DJMAX RESPECT V\DJMAX RESPECT V.exe"
+
 REM 프로그램이 꺼져있는지 확인하는 주기 (정수, 초)
 set /A checkTime=10
 
 REM 프로그램 확인 주기 시작 시간 / 디맥 실행이 보장되는 시간 (정수, 초)
 set /A startupTime=5
-
-REM 디맥 위치
-set DJMAXLocation="E:\Software\Steam\steamapps\common\DJMAX RESPECT V\DJMAX RESPECT V.exe"
 
 if "%VArchiveLocation:~1,-1%" equ "FOLDER/NAME.lnk" (
     echo __________ 오류: V-아카이브 폴더 위치를 변경해주세요 __________
